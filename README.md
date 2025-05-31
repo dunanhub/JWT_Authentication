@@ -21,8 +21,8 @@
 ## 🧩 Установка
 
 ```bash
-git clone https://github.com/dunanhub/fastapi-jwt-auth-example.git
-cd fastapi-jwt-auth-example
+git clone https://github.com/dunanhub/JWT_Authentication.git
+cd JWT_Authentication
 ```
 
 ```bash
