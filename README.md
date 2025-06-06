@@ -55,7 +55,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES=30
 ## 📂 Структура проекта
 
 ```
-notes_api/
+JWT_Authentication/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py
